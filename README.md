@@ -6,4 +6,6 @@ This is a text editor that changes txt to dIfFeReNtCaSe, backwards, and s p a c 
 
 ![](MyCoolProgram/src/pictures/sample1.PNG)
 
-MyCoolProgram/src/pictures/
+![](MyCoolProgram/src/pictures/sample2.PNG)
+
+
