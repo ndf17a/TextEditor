@@ -1,6 +1,6 @@
 Projects
 -----------------------------------
-This is a text editor that changes txt to dIfFeReNtCaSe, backwards, and s p a c e d out
+This is a text editor that changes text to dIfFeReNtCaSe, backwards, and s p a c e d out and some other silly things
 
 Open the layout.html to load the page
 
